@@ -28,3 +28,7 @@
 .carousel-indicators li.active {
   background-color: #222222;
 }
+
+.carousel-caption p {
+  color: #000000;
+}
