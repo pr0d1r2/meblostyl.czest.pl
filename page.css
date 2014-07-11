@@ -21,3 +21,10 @@
   background-image: -o-linear-gradient(top,#704C1E 0,#704C1E 100%);
   background-image: linear-gradient(to bottom,#704C1E 0,#704C1E 100%);
 }
+
+.carousel-indicators li {
+  background-color: #aaaaaa;
+}
+.carousel-indicators li.active {
+  background-color: #222222;
+}
